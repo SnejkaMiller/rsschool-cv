@@ -1,4 +1,6 @@
 # Snezhana Petrova
+![image](https://github.com/SnejkaMiller/rsschool-cv/assets/116501595/b7bde444-5d1f-42bc-91a2-4303996fdc1c)
+
 
 ## Contact information:
 * Phone: +38 066 4074557
