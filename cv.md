@@ -6,7 +6,7 @@
 * Phone: +38 066 4074557
 * E-mail: snejkapetrova97@gmail.com
 * Telegram: @sn_petrova
-* GitHub: @SnejkaMille
+* GitHub: @SnejkaMiller
 
 ## About me
 The main purpose of my training is to acquire new skills with the prospect of further developing in the field of programming. Before I came to rsschool-cv, I had various intensities, so I have a basic level of HTML/CSS knowledge, hopefully it will be enough.
